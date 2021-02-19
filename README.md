@@ -3,4 +3,4 @@
 ### Alejandro Zapata
 #### By Diez Yesica V.
 
-https://github.com/shudiez/DesafioFacebook/blob/main/IMG/DesafioFacebookIMG.png
+<td> <img src="https://github.com/shudiez/DesafioFacebook/blob/main/IMG/DesafioFacebookIMG.png" width="400px" /> </td>
