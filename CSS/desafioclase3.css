@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    color: white;
+    margin-left: 250px;
+}
+
+header{
+    background-color: rgb(81, 81, 240);
+    height: 75px;
+    
+}
+
+nav{
+    text-align: right;
+    color: white;
+    font-weight: bold;
+    margin-right: 350px;
+}
+
+img{
+    width: 60px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+section{
+    margin-top: 50px;
+    margin-left: 250px;
+    text-align: justify;
+}
+footer {
+    font-weight: bold;
+    background-color: coral;
+    height: 50px;
+    margin-top: 50px;
+    padding-top: 20px;     
+}
+span{
+    padding: 50px;   
+    margin-top: 50px;     
+}
+
+.contenedor{
+   text-align: center;
+   padding-top: 20px;  
+}
